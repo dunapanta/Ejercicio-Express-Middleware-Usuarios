@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-classroom",
+  "version": "1.0.0",
+  "description": "Ejercicio Clase 19/05/2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Unapanta",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
